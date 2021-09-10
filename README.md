@@ -4,7 +4,6 @@
 <br>
 </br>
 
-
 💼 Student at Univeristy Denver Boot Camp - _Full Stack Flex_
 
 🚧 Currently studying JavaScript
@@ -15,9 +14,10 @@
 
 
 
-### 🤜🏻🤛🏻 Let's Colab!
+### 🤜🏻🤛🏻 Let's Colab! [![image](https://user-images.githubusercontent.com/84256748/132616434-3aa62bb9-5e2e-4eb3-94a4-34ebe9d9eaa0.png)](https://www.linkedin.com/in/sheyla-popovich-fsd/)
 _"Great discoveries and improvements invariably involve the cooperation of many minds."_ <span>-Alexander Graham Bell.</span>
-[![image](https://user-images.githubusercontent.com/84256748/132616434-3aa62bb9-5e2e-4eb3-94a4-34ebe9d9eaa0.png)](https://www.linkedin.com/in/sheyla-popovich-fsd/)
+<brk>
+ </br>
 
 
 
