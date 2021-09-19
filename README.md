@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/SheylaPopovich/SheylaPopovich/blob/main/pop-giphy.gif" alt="alt text" width="1000" height="500">
+<img src="https://github.com/SheylaPopovich/SheylaPopovich/blob/main/pop-giphy.gif" alt="alt text" width="1000" height="325">
 <h1 align="center"> Hey there!! I'm Sheyla Popovich aka Pops ✌️👩🏻‍💻 </h1>
 
 <p> Welcome to my page! I am currently in the medical field transitioning into the  exciting world of coding. I have a strong passion for learning and unleashing my creativity in a propsperous way. During your visit if you come across a project or something that has sparked your interest, please feel free to reach out at ✉️ SheylaPopovich@gmail.com or give explore some of my other media pages. I am a firm believer that knowledge is power and sharing that knowledge is incredibly prevailing. Shoot me a message with any inquires you may have or if you would like to collab!</p>
