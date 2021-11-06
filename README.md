@@ -19,23 +19,22 @@
 💬 Ask me anything you may be pondering 
 
 ⚡ Fun Facts- Closet nerd I love documentaries and Music fixes everything! 
-
-
-
-### 🤜🏻🤛🏻 Let's Colab! [![image](https://user-images.githubusercontent.com/84256748/132616434-3aa62bb9-5e2e-4eb3-94a4-34ebe9d9eaa0.png)](https://www.linkedin.com/in/sheyla-popovich-fsd/)
-_"Great discoveries and improvements invariably involve the cooperation of many minds."_ <span>-Alexander Graham Bell.</span>
-<brk>
- </br>
+</br>
  
 
-### Check Out My Work
+# Check Out My Work
 [Sheyla Popovich Portfolio](https://sheylapopovich.github.io/sheyla-michelle-popovich/)
+<br>
+<br>
 
-Let's chat over Zoom or even meet up for coffe to discuss the endless possibilites! 
+# ☕ Wanna Chat?
+Let's chat over Zoom or even meet up for coffe to discuss the endless possibilites!<br>_"Great discoveries and improvements invariably involve the cooperation of many minds."_ <span>-Alexander Graham Bell.</span>
   *  Learn from each other
   *  Share our knowledge
   *  Grow our network
+   [![image](https://user-images.githubusercontent.com/84256748/132616434-3aa62bb9-5e2e-4eb3-94a4-34ebe9d9eaa0.png)](https://www.linkedin.com/in/sheyla-popovich-fsd/)
 <br>
+
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheylaPopovich&theme=holi-theme"]"https://git.io/streak-stats">
 </p>
