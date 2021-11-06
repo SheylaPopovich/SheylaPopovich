@@ -22,7 +22,7 @@ _"Great discoveries and improvements invariably involve the cooperation of many 
 <brk>
  </br>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheylaPopovich&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheylaPopovich&theme=holi-theme)](https://git.io/streak-stats)
 
 
 
