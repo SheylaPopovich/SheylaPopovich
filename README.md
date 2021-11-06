@@ -1,9 +1,14 @@
 
 
 <p align= "center" > <img src="https://github.com/SheylaPopovich/SheylaPopovich/blob/main/pop-giphy.gif" alt="alt text" width="700" height="325"></p>
-<h1 align="center"> Hey there!! I'm Sheyla Popovich aka Pops ✌️👩🏻‍💻 </h1>
 
-<p> Welcome to my page! I am currently in the medical field transitioning into the  exciting world of coding. I have a strong passion for learning and unleashing my creativity in a propsperous way. During your visit if you come across a project or something that has sparked your interest, please feel free to reach out at ✉️ SheylaPopovich@gmail.com or give explore some of my other media pages. I am a firm believer that knowledge is power and sharing that knowledge is incredibly prevailing. Shoot me a message with any inquires you may have or if you would like to collab!</p>
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!!+I'm+Sheyla+Popovich✌👩;........welcome+to+my+page!!!"
+      </p>
+
+
+<p> I am currently in the medical field transitioning into the  exciting world of coding. I have a strong passion for learning and unleashing my creativity in a propsperous way. During your visit if you come across a project or something that has sparked your interest, please feel free to reach out at ✉️ SheylaPopovich@gmail.com or give explore some of my other media pages. I am a firm believer that knowledge is power and sharing that knowledge is incredibly prevailing. Shoot me a message with any inquires you may have or if you would like to collab!</p>
 <br>
 </br>
 
@@ -22,11 +27,6 @@ _"Great discoveries and improvements invariably involve the cooperation of many 
 <brk>
  </br>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheylaPopovich&theme=holi-theme)](https://git.io/streak-stats)
-
-
-
-
 
 ### Check Out My Work
 [Sheyla Popovich Portfolio](https://sheylapopovich.github.io/sheyla-michelle-popovich/)
@@ -36,3 +36,6 @@ Let's chat over Zoom or even meet up for coffe to discuss the endless possibilit
   *  Share our knowledge
   *  Grow our network
 <br>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheylaPopovich&theme=holi-theme"]"https://git.io/streak-stats">
+</p>
