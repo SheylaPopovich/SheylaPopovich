@@ -12,7 +12,7 @@
 <br>
 </br>
 
-💼 Student at Univeristy Denver Boot Camp - _Full Stack Flex_
+💼 Student at University Denver Boot Camp - _Full Stack Flex_
 
 🚧 Currently studying JavaScript
 
