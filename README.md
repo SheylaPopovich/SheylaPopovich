@@ -35,6 +35,10 @@ Let's chat over Zoom or even meet up for coffe to discuss the endless possibilit
    [![image](https://user-images.githubusercontent.com/84256748/132616434-3aa62bb9-5e2e-4eb3-94a4-34ebe9d9eaa0.png)](https://www.linkedin.com/in/sheyla-popovich-fsd/)
 <br>
 
-<p align="center">
+<p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheylaPopovich&theme=holi-theme"]"https://git.io/streak-stats">
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheylapopovich&theme=nightowl&show_icons=true)
+ 
+ 
