@@ -8,13 +8,13 @@
       </p>
 
 
-<p> I am currently in the medical field transitioning into the  exciting world of coding. I have a strong passion for learning and unleashing my creativity in a prosperousway. During your visit if you come across a project or something that has sparked your interest, please feel free to reach out at ✉️ SheylaPopovich@gmail.com or give explore some of my other media pages. I am a firm believer that knowledge is power and sharing that knowledge is incredibly prevailing. Shoot me a message with any inquires you may have or if you would like to collab!</p>
+<p> I am currently in the medical field transitioning into the  exciting world of coding. I have a strong passion for learning and unleashing my creativity in a prosperous way. During your visit if you come across a project or something that has sparked your interest, please feel free to reach out at ✉️ SheylaPopovich@gmail.com or give explore some of my other media pages. I am a firm believer that knowledge is power and sharing that knowledge is incredibly prevailing. Shoot me a message with any inquires you may have or if you would like to collab!</p>
 <br>
 </br>
 
-💼 Student at University Denver Boot Camp - _Full Stack Flex_
+💼 Completed University of Denver Boot Camp - _Full Stack Developer_
 
-🚧 Currently studying JavaScript
+🚧 Currently studying React
 
 💬 Ask me anything you may be pondering 
 
