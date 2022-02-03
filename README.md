@@ -23,8 +23,7 @@
  
 
 # Check Out My Work
-[Sheyla Popovich Portfolio](https://sheyla-michelle-popovich.herokuapp.com/){:target="_blank"}
-<a href="https://sheyla-michelle-popovich.herokuapp.com/" target="_blank">Sheyla Popovich Portfolio</a>
+[Sheyla Popovich Portfolio](https://sheyla-michelle-popovich.herokuapp.com/)
 <br>
 <br>
 
