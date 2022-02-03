@@ -15,7 +15,7 @@
 💼 Completed University of Denver Boot Camp - _Full Stack Developer_
 
 🚧 Currently studying React
-
+ 
 💬 Ask me anything you may be pondering 
 
 ⚡ Fun Facts- Closet nerd I love documentaries and Music fixes everything! 
@@ -24,6 +24,7 @@
 
 # Check Out My Work
 [Sheyla Popovich Portfolio](https://sheyla-michelle-popovich.herokuapp.com/){:target="_blank"}
+<a href="https://sheyla-michelle-popovich.herokuapp.com/" target="_blank">Sheyla Popovich Portfolio</a>
 <br>
 <br>
 
