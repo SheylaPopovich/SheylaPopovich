@@ -18,7 +18,7 @@
  
 💬 Ask me anything you may be pondering 
 
-⚡ Fun Facts- Closet nerd I love documentaries and Music fixes everything! 
+⚡ Fun Facts- Closet nerd, I love documentaries, and Music fixes everything! 
 </br>
  
 
@@ -28,7 +28,7 @@
 <br>
 
 # ☕ Wanna Chat?
-Let's chat over Zoom or even meet up for coffe to discuss the endless possibilites!<br>_"Great discoveries and improvements invariably involve the cooperation of many minds."_ <span>-Alexander Graham Bell.</span>
+Let's chat over Zoom or even meet up for coffee to discuss the endless possibilities!<br>_"Great discoveries and improvements invariably involve the cooperation of many minds."_ <span>-Alexander Graham Bell.</span>
   *  Learn from each other
   *  Share our knowledge
   *  Grow our network
@@ -39,6 +39,6 @@ Let's chat over Zoom or even meet up for coffe to discuss the endless possibilit
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheylaPopovich&theme=holi-theme"]"https://git.io/streak-stats">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheylapopovich&theme=nightowl&show_icons=true)
+
  
  
